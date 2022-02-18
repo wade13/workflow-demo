@@ -10,7 +10,6 @@ Now, to get into the real stuff here:
   3. dolor
 
 ## New subsection 2
-second change
 third change
 
 ## New subsection 3
