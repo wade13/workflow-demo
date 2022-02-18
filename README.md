@@ -13,6 +13,7 @@ Now, to get into the real stuff here:
 third change
 fourth change
 sixth change [ready]
+change # 7
 
 ## New subsection 3
 first change
