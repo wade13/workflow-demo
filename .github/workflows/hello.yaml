@@ -27,3 +27,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
+        
+      # Check for banned word
+      - name: Check for TODO
+        run: grep -q TODO README.md && exit 1
