@@ -30,4 +30,10 @@ jobs:
         
       # Check for banned word
       - name: Check for TODO
-        run: grep -q TODO README.md && exit 1
+        run: |
+          set -x
+          if grep -q TODO README.md
+          then
+             echo TODO - fail
+             exit 1
+          fi
