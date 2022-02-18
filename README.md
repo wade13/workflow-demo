@@ -12,7 +12,8 @@ Now, to get into the real stuff here:
 ## New subsection 2
 third change
 fourth change
-fifth change
+sixth change [ready]
+change # 7
 
 ## New subsection 3
 first change
