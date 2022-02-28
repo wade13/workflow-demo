@@ -40,5 +40,14 @@ func Try(f Foo) {
 		fmt.Println("this is the third case")
 		fmt.Println("this is the third case")
 		fmt.Println("this is the third case")
+	case FooFourth:
+		fmt.Println("this is the fourth case")
+		fmt.Println("this is the fourth case")
+		fmt.Println("this is the fourth case")
+		fmt.Println("this is the fourth case")
+		fmt.Println("this is the fourth case")
+		fmt.Println("this is the fourth case")
+		fmt.Println("this is the fourth case")
+		fmt.Println("this is the fourth case")
 	}
 }
